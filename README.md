@@ -1,5 +1,5 @@
 # cv-resume
-Details of CV and projects
+Details for CV and projects
 <hr>
 
 # Derek Blanchette, MS
