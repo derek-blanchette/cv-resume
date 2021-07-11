@@ -1,2 +1,2 @@
 # cv-resume
-Details for CV and projects
+Details of CV and projects
