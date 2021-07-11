@@ -1,7 +1,9 @@
 # cv-resume
 Details of CV and projects
 <hr>
+
 # Derek Blanchette, MS
+
 ## Senior Statistician / Data Scientist / Programming Analyst
 * drblanchette@gmail.com
 * Remote Consulting from Coralville, IA
@@ -18,6 +20,13 @@ University of Iowa, IA
 ### Bachelor of Arts: Biochemistry, Mathematics (Honors)
 Grinnell College, Grinnell, IA
 * Grinnell College Dean's List
+
+## Publications
+#### Peer Reviewed Publications
+Papers available online at ORC ID: https://orcid.org/0000-0001-8591-2460
+
+#### Textbook Chapter
+Dawson, Blanchette, and Pihlstrom. “Application of Biostatistics in Dental Public Health.” Dentistry, Dental Practice, and the Community. Elsevier. 2019
 
 ## Experience
 ### Founder, Owner  [2013-Current]
@@ -48,10 +57,3 @@ Assisted faculty, staff, and students via HelpDesk calls and walk-ins. Supervise
 ### Administrative Assistant  [2004-2005]
 #### CIGNA, Bourbonnais, IL
 Supported claim service site manager, developed novel VBA reports to identify claim service issues, and worked with IT fulfillment to resolve business needs.
-
-## Publications
-#### Peer Reviewed Publications
-Papers available online at ORC ID: https://orcid.org/0000-0001-8591-2460
-
-#### Textbook Chapter
-Dawson, Blanchette, and Pihlstrom. “Application of Biostatistics in Dental Public Health.” Dentistry, Dental Practice, and the Community. Elsevier. 2019
