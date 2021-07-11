@@ -7,9 +7,10 @@ Details for CV and projects
 ## Senior Statistician / Data Scientist / Programming Analyst
 * drblanchette@gmail.com
 * Remote Consulting from Coralville, IA
-<hr>
-Statistician with more than a decade of experience providing professional services for design and analysis with an emphasis on strong writing and communication for non-technical audiences. Broad range of analytical skills include statistical modeling for complex studies on multiple platforms: SAS, R, SPSS, SQL, Python (pandas), Excel. Computing skills include: MS Office, Windows, Linux. macOS, LAMP stack, Python, Java, and Visual Basic.
-<hr>
+
+
+> **Summary** - 
+> Statistician with more than a decade of experience providing professional services for design and analysis with   an emphasis on strong writing and communication for non-technical audiences. Broad range of analytical skill include statistical modeling for complex studies on multiple platforms: SAS, R, SPSS, SQL, Python (pandas), Excel. Computing skills include: MS Office, Windows, Linux. macOS, LAMP stack, Python, Java, and Visual Basic.
 
 ## Education
 ### Master of Science: Biostatistics (Honors)
