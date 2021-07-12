@@ -3,7 +3,6 @@
 # Derek Blanchette, MS
 ## Senior Statistician / Data Scientist / Programming Analyst
 * [Numeric Intelligence, LLC](http://www.numericintelligence.com)
-* drblanchette@gmail.com
 * Remote Consulting from Coralville, IA
 
 
