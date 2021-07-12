@@ -22,10 +22,11 @@ Grinnell College, Grinnell, IA
 
 ## Publications
 #### Peer Reviewed Publications
-Papers available online at ORC ID: https://orcid.org/0000-0001-8591-2460
+- Google Scholar profile available here: https://scholar.google.com/citations?user=c9r48UgAAAAJ&hl=en
+- Also available online at ORC ID: https://orcid.org/0000-0001-8591-2460
 
 #### Textbook Chapter
-Dawson, Blanchette, and Pihlstrom. “Application of Biostatistics in Dental Public Health.” Dentistry, Dental Practice, and the Community. Elsevier. 2019
+- Dawson, Blanchette, and Pihlstrom. “Application of Biostatistics in Dental Public Health.” Dentistry, Dental Practice, and the Community. Elsevier. 2019
 
 ## Experience
 ### Founder, Owner  [2013-Current]
